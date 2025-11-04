@@ -1,0 +1,16 @@
+data_size,algorithm,time_ms,valid
+1000,Selection Sort,80.0,True
+1000,Bubble Sort,120.0,True
+1000,Quick Sort,5.0,True
+1000,Merge Sort,6.0,True
+1000,Heap Sort,10.0,True
+10000,Selection Sort,800.0,True
+10000,Bubble Sort,1200.0,True
+10000,Quick Sort,50.0,True
+10000,Merge Sort,60.0,True
+10000,Heap Sort,100.0,True
+50000,Selection Sort,4000.0,True
+50000,Bubble Sort,6000.0,True
+50000,Quick Sort,250.0,True
+50000,Merge Sort,300.0,True
+50000,Heap Sort,500.0,True
